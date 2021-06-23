@@ -1,0 +1,28 @@
+Sara
+Amal
+Abeer 15000
+Nora 10000
+
+
+phone 4000
+table 200
+smartpen 500
+cover 80
+Ipad 2000
+Laptop 2000
+screen 700
+Offer 
+
+phone 4000
+smartpen 500
+cover 80
+Offer
+
+book 20
+bag 100
+Airpods 700
+Offer
+
+Milk 1
+
+Happy 100
